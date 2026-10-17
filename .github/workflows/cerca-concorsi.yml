@@ -2,7 +2,7 @@ name: Cerca concorsi
 
 on:
   schedule:
-    - cron: "30 5,9,12 * * *"   # ogni giorno alle 05:30 UTC (7:30 in estate, 6:30 in inverno, ora italiana)
+    - cron: "30 8 * * *"   # ogni giorno alle 05:30 UTC (7:30 in estate, 6:30 in inverno, ora italiana)
   workflow_dispatch:        # permette di avviarla anche a mano dal sito GitHub
 
 permissions:
