@@ -63,11 +63,9 @@ ESCLUDI = [
 # Per le fonti NAZIONALI (filtra_luogo=True) il testo deve citare anche
 # Napoli o un comune della provincia. Aggiungi/togli comuni a piacere.
 LUOGHI = [
-    "napoli", "pozzuoli", "torre del greco", "casoria", "castellammare",
-    "afragola", "giugliano", "ercolano", "portici", "acerra", "arzano",
-    "marano", "qualiano", "pomigliano", "nola", "sorrento", "ischia",
-    "capri", "procida", "san giorgio a cremano", "cercola", "melito",
-    "villaricca", "frattamaggiore", "caivano", "bacoli", "quarto",
+    "napoli", "casoria", 
+    "afragola", "giugliano", "acerra", "arzano",
+    "marano", "qualiano", "quarto"
 ]
 
 # True  = i bandi di cui non si riesce a leggere la scadenza compaiono in una
