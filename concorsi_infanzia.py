@@ -57,7 +57,7 @@ ESCLUDI = [
     "convocazione", "convocazioni", "diario", "ammessi", "commissione",
     "sorteggio", "scaduto", "scaduti", "chiuso", "chiusi",
     "nomine", "nomina", "rettifica", "rettifiche",   # nomine e rettifiche non sono concorsi
-    "mobilità",                                      # mobilità: riservata a chi è già dipendente PA
+    "mobilità", "2021",                                     # mobilità: riservata a chi è già dipendente PA
 ]
 
 # Per le fonti NAZIONALI (filtra_luogo=True) il testo deve citare anche
